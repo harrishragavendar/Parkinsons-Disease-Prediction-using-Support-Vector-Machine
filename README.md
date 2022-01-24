@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Prediction-using-Support-Vector-Machine
+# Parkinsons-Disease-Prediction-using-Support-Vector-Machine
